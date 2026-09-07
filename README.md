@@ -1,6 +1,6 @@
 # astraeon
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+An immersive astronmy experience where every star's a story and every constellation's a connection.
 
 ## Built with v0
 
